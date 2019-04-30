@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851122036665",
+    "firebase_url": "https://konnect-93228.firebaseio.com",
+    "project_id": "konnect-93228",
+    "storage_bucket": "konnect-93228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851122036665:android:a868e71a51b37885",
+        "android_client_info": {
+          "package_name": "com.example.pulkit.konnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851122036665-20hd0mofpd6p1h32g99l0b0p0m8s05m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pulkit.konnect",
+            "certificate_hash": "60cff0467c1b303202dc045510ad6055258ea196"
+          }
+        },
+        {
+          "client_id": "851122036665-e4hfteru3921707h5u050gmeh9spr7b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAynnNfwLTLWFyL__R3cPGs4nw_ofuXrsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851122036665-e4hfteru3921707h5u050gmeh9spr7b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
